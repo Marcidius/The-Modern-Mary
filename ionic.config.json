@@ -1,0 +1,8 @@
+{
+  "name": "TheModernMary",
+  "app_id": "0e1cc3bf",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
